@@ -1,2 +1,2 @@
 # shinybot
-Using opencv and possibly input redirection for automated shiny hunting
+Using opencv and possibly input redirection with luma for automated shiny hunting
